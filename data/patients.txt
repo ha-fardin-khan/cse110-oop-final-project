@@ -1,0 +1,2 @@
+P101|Rahim|22|01711111111|Fever
+P102|Karim|30|01822222222|Headache
